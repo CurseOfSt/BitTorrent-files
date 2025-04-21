@@ -1,0 +1,24 @@
+[
+    {
+        "name": "MyCoolApp",
+        "version": "1.2.0",
+        "description": "Тестовое приложение",
+        "torrent": {
+            "torrentUrl": "https://example.com/files/mycoolapp.torrent",
+            "fileName": "mycoolapp-1.2.0.zip",
+            "infoHash": "abcdef1234567890abcdef1234567890abcdef12",
+            "fileSize": 10485760
+        }
+    },
+    {
+        "name": "AnotherApp",
+        "version": "0.9.5",
+        "description": "Ещё одно приложение",
+        "torrent": {
+            "torrentUrl": "https://example.com/files/anotherapp.torrent",
+            "fileName": "anotherapp-0.9.5.zip",
+            "infoHash": "1234567890abcdef1234567890abcdef12345678",
+            "fileSize": 2048000
+        }
+    }
+]
