@@ -4,7 +4,7 @@
         "version": "1",
         "description": "analog for Word",
         "torrent": {
-            "torrentUrl": "https://github.com/CurseOfSt/BitTorrent-files/blob/main/data/LibreOffice.torrent",
+            "torrentUrl": "https://raw.githubusercontent.com/CurseOfSt/BitTorrent-files/blob/main/data/LibreOffice.torrent",
             "fileName": "LibreOffice",
             "infoHash": "abcdef1234567890abcdef1234567890abcdef12",
             "fileSize": 10485760
@@ -15,7 +15,7 @@
         "version": "1",
         "description": "free vpn",
         "torrent": {
-            "torrentUrl": "https://github.com/CurseOfSt/BitTorrent-files/blob/main/data/OpenVPN%20Connect.torrent",
+            "torrentUrl": "https://raw.githubusercontent.com/CurseOfSt/BitTorrent-files/main/data/OpenVPN%20Connect.torrent",
             "fileName": "OpenVPN",
             "infoHash": "1234567890abcdef1234567890abcdef12345678",
             "fileSize": 2048000
